@@ -13,7 +13,7 @@
 
 <p align="center">
     <img
-        src="img/00002-2124303206.png"
+        src="img/favicon.png"
         width="400"
         alt="ShinAI-Dev Project Preview"
         style="border: 4px solid #333; border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.3);"
